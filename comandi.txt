@@ -1,0 +1,4 @@
+git clone <link>
+git add <nome file>
+git branch
+git push
