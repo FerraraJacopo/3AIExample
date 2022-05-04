@@ -1,5 +1,5 @@
-git clone <link>
-git add <nome file>
+git clone <HTTPS>
 git branch
+git add <nome file>
 git push
- git commit -m "Nome file"
+git commit -m "Nome file"
